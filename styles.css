@@ -46,6 +46,11 @@ nav a:hover{
     color: var(--lt-gray);
 }
 
+.current{
+    background-color: var(--red);
+    color: var(--lt-gray);
+}
+
 a{
     color: var(--blue);
     padding: 1rem;
